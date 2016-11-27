@@ -1,0 +1,5 @@
+﻿//To do………………………………………
+-…..-//ARM Architecture Reference Manual
+//coding style……………………………….
+http://www.ganssle.com and was developed by Jack Ganssle. Another that we like, by
+Miro Samek, is located online at http://www.quantum-leaps.com.
